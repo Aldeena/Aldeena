@@ -2,8 +2,8 @@ Bem vindo! Meu nome é Rafael Merling, mas pode me chamar de Merling, ou de Alde
 
 - Estudante de Engenharia de Computação da UTFPR
 - Aprendendo até então linguagem C e C++
-- 📫 How to reach me: rafaelmerling@gmail.com
-- 😄 Pronouns: Ele/Dele
+- Principal forma de contato: rafaelmerling@gmail.com
+- Pronomes: Ele/Dele
 
  <div>
   <a href="https://github.com/Aldeena">
