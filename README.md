@@ -1,7 +1,7 @@
 Bem vindo! Meu nome é Rafael Merling, mas pode me chamar de Merling, ou de Aldeena.
 
 - Estudante de Engenharia de Computação da UTFPR
-- Aprendendo até então linguagem C e C++
+- C (intermediário), C++(intermediário), Python (iniciante)
 - Principal forma de contato: merlingrafael147@gmail.com
 - Pronomes: Ele/Dele
 
