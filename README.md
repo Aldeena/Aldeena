@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Merling, but you can call me Merling or Aldeena</h1>
 <h3 align="center">I'm a Computer Engineering student at UTFPR</h3>
 
-- 🌱 I’m currently learning **C, C++, Python, MySQL and cybersecurity**
+- 🌱 I’m currently learning **C, C++, Python, MySQL and Cybersecurity**
 
 - 👨‍💻 All of my projects are available at my GitHub page [https://github.com/Aldeena?tab=repositories](https://github.com/Aldeena?tab=repositories)
 
